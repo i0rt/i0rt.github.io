@@ -21,5 +21,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          BRANCH: master
+          #BRANCH: master
           FOLDER: data
